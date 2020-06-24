@@ -1,0 +1,27 @@
+<svg id="Agrupar_1" data-name="Agrupar 1" xmlns="http://www.w3.org/2000/svg" width="516" height="156" viewBox="0 0 516 156">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 160px;
+        font-family: "Times New Roman";
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        text-anchor: middle;
+      }
+
+      .cls-3 {
+        font-size: 72px;
+        font-family: "Segoe Script";
+      }
+    </style>
+  </defs>
+  <rect id="Retângulo_Arredondado_1" data-name="Retângulo Arredondado 1" class="cls-1" width="164" height="156" rx="10" ry="10"/>
+  <text id="H" class="cls-2" x="80" y="131">H</text>
+  <text id="Serviços" class="cls-3" transform="translate(352.001 113.299) scale(1.092 1.254)">Serviços</text>
+</svg>
