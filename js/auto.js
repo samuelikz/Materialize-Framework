@@ -7,3 +7,9 @@ function Alerta()
 
 }
 
+function AlertaLogin()
+{
+  M.toast({html: 'Desabilitado', classes: 'rounded'});
+
+}
+
